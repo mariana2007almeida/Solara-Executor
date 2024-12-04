@@ -76,4 +76,4 @@ Visitor comments may be checked through an automated spam detection service.
 Solara-Executor is licensed under the MIT License. 
 
 #
-*Copyright © 2023 Solara-Executor. All rights reserved.*
+*Copyright © 2024 Solara-Executor. All rights reserved.*
